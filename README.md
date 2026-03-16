@@ -1,4 +1,4 @@
-## SafeVoiceAI - System Architecture
+## SafeVoice-AI - System Architecture
 
 <svg width="1360" height="1480" viewBox="0 0 680 740" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
 <defs>
